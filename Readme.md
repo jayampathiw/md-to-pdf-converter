@@ -30,14 +30,14 @@ markdown-to-pdf-converter
 
 1. **Start the backend server:**
    ```bash
-   cd backend
+   cd md-to-pdf-converter-backend
    npm install
    node server.js
    ```
 
 2. **Start the frontend development server:**
    ```bash
-   cd frontend
+   cd md-to-pdf-converter-frontend
    npm install
    npm start
    ```
